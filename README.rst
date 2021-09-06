@@ -5,6 +5,18 @@ is-number
     :target: https://pypi.org/project/ddt-is-number/
     :alt: PyPI
 
+.. image:: https://github.com/DirkdToit/ddt-is-number/actions/workflows/ci.yaml/badge.svg
+    :target: https://github.com/DirkdToit/ddt-is-number/actions/workflows/ci.yaml
+    :alt: GitHub Actions - CI
+
+.. image:: https://github.com/DirkdToit/ddt-is-number/actions/workflows/pre-commit.yaml/badge.svg
+    :target: https://github.com/DirkdToit/ddt-is-number/actions/workflows/pre-commit.yaml
+    :alt: GitHub Actions - pre-commit
+
+.. image:: https://img.shields.io/codecov/c/gh/DirkdToit/ddt-is-number
+    :target: https://app.codecov.io/gh/DirkdToit/ddt-is-number
+    :alt: Codecov
+
 A Python library to determine if something is a number.
 
 Installation
