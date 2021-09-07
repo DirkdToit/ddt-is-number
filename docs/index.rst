@@ -45,3 +45,10 @@ Usage
    api
    faq
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Developer
+
+   contributing
+   maintaining
+
