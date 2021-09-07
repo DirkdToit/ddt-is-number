@@ -17,6 +17,18 @@ is-number
     :target: https://app.codecov.io/gh/DirkdToit/ddt-is-number
     :alt: Codecov
 
+.. image:: https://img.shields.io/badge/FAQ-documentation-blue.svg
+   :target: https://is-number.readthedocs.io/en/latest/faq.html
+   :alt: Community FAQ
+
+.. image:: https://img.shields.io/badge/Q&A-StackOverflow-orange.svg
+   :target: https://stackoverflow.com/questions/tagged/python
+   :alt: Q&A StackOverflow
+
+.. image:: https://img.shields.io/badge/chat-gitter-green.svg
+   :target: https://gitter.im/is-number/community
+   :alt: Gitter chat
+
 A Python library to determine if something is a number.
 
 Installation
