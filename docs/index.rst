@@ -49,6 +49,7 @@ Usage
    :maxdepth: 2
    :caption: Developer
 
-   contributing
-   maintaining
+    contributing
+    maintaining
+    branding
 
